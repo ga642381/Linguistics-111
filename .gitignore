@@ -1,5 +1,8 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+*.txt
+*.tgz
+Gossiping-QA-Dataset-2_0.csv
 *.py[cod]
 *$py.class
 
